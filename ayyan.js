@@ -110,3 +110,13 @@ const Window = function(tabs) {
 
   //TASK 4
 
+
+  // The global variable
+let fixedValue = 4;
+
+function incrementer() {
+  // Only change code below this line
+   return fixedValue + 1
+var newVal = incrementer( )
+  // Only change code above this line
+}
